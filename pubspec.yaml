@@ -1,0 +1,26 @@
+name: prueba_tecnica_fondos
+description: Aplicación de manejo de fondos BTG Pactual
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # State Management
+  flutter_riverpod: ^2.5.1
+  
+  # UI
+  cupertino_icons: ^1.0.6
+  intl: ^0.19.0
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
