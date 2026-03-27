@@ -127,42 +127,6 @@ flutter test
 flutter test --coverage
 ```
 
-## 🎨 Características Técnicas Implementadas
-
-### ✅ Requisitos Funcionales
-
-- [x] Visualizar lista de fondos disponibles
-- [x] Suscribirse a un fondo con monto mínimo
-- [x] Cancelar participación en un fondo
-- [x] Ver saldo actualizado en tiempo real
-- [x] Visualizar historial de transacciones
-- [x] Seleccionar método de notificación (Email/SMS)
-- [x] Mensajes de error para saldo insuficiente
-
-### ✅ Requisitos Técnicos
-
-- [x] Framework Flutter
-- [x] Buenas prácticas de UI/UX
-- [x] Manejo de estado con Riverpod
-- [x] Validaciones de formularios
-- [x] Diseño responsivo
-- [x] Datos mock simulando API REST
-- [x] Manejo de errores y loading states
-- [x] Feedback visual (SnackBars, Diálogos)
-- [x] Código limpio y comentado
-
-### 🌟 Extras Implementados
-
-- [x] Componentes y widgets reutilizables
-- [x] Navegación entre pantallas
-- [x] Formateo de moneda (COP)
-- [x] Agrupación de transacciones por fecha
-- [x] Animaciones y transiciones suaves
-- [x] Iconografía y diseño moderno
-- [x] Estados vacíos informativos
-
-## 📸 Capturas de Pantalla
-
 La aplicación incluye:
 
 - **Pantalla Principal**: Dashboard con saldo y accesos rápidos
